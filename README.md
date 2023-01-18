@@ -1,6 +1,6 @@
 # HotSpot Voucher Generator
 
-Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma.sh).
+Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma.sh/hotspot-voucher-generator).
 
 
 ## Releases
