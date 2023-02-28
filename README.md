@@ -5,6 +5,17 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.2.0
+
+Changelog:
+
+- Add support for Sunmi T2 Mini customer LCD screen
+
+Downloads:
+
+- Sunmi BuiltIn [App Market](market://woyou.market/appDetail?packageName=sh.duma.hotspotvouchergenerator)
+- Android APK - [Download](downloads/sh.duma.hotspotvouchergenerator-1.2.0.apk)
+
 ### Version 1.1
 
 Changelog:
@@ -13,7 +24,6 @@ Changelog:
 
 Downloads:
 
-- Sunmi BuiltIn [App Market](market://woyou.market/appDetail?packageName=sh.duma.hotspotvouchergenerator)
 - Android APK - [Download](downloads/sh.duma.hotspotvouchergenerator-1.1.apk)
 
 ## Extras
