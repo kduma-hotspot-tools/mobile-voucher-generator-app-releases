@@ -5,6 +5,13 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.3.1 (Quick Patch)
+
+Changelog:
+
+- Test of quick patch system
+- Update Supported sunmi devices
+
 ### Version 1.3.0
 
 Changelog:
