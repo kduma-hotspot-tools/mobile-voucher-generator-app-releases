@@ -5,6 +5,17 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.3.0
+
+Changelog:
+
+- Quick patching support
+
+Downloads:
+
+- Sunmi BuiltIn [App Market](market://woyou.market/appDetail?packageName=sh.duma.hotspotvouchergenerator)
+- Android APK - [Download](downloads/sh.duma.hotspotvouchergenerator-1.3.0.apk)
+
 ### Version 1.2.0
 
 Changelog:
@@ -13,7 +24,6 @@ Changelog:
 
 Downloads:
 
-- Sunmi BuiltIn [App Market](market://woyou.market/appDetail?packageName=sh.duma.hotspotvouchergenerator)
 - Android APK - [Download](downloads/sh.duma.hotspotvouchergenerator-1.2.0.apk)
 
 ### Version 1.1
