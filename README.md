@@ -5,6 +5,12 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.5.6 (Quick Patch)
+
+Changelog:
+
+- fix spacing issue on about page
+
 ### Version 1.5.5 (Quick Patch)
 
 Changelog:
