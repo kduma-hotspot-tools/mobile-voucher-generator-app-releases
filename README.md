@@ -5,6 +5,12 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.5.3 (Quick Patch)
+
+Changelog:
+
+- add Bluetooth SPP Printers to supporters printers
+
 ### Version 1.5.2 (Quick Patch)
 
 Changelog:
