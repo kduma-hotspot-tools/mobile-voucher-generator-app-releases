@@ -5,6 +5,13 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.5.1 (Quick Patch)
+
+Changelog:
+
+- Add auto print option
+- Check for Sunmi compatibility
+
 ### Version 1.5.0
 
 Changelog:
