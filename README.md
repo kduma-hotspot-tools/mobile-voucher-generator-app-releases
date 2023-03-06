@@ -5,6 +5,18 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.5.5 (Quick Patch)
+
+Changelog:
+
+- fix runtime error
+
+### Version 1.5.4 (Quick Patch)
+
+Changelog:
+
+- configurable visual styles
+
 ### Version 1.5.3 (Quick Patch)
 
 Changelog:
