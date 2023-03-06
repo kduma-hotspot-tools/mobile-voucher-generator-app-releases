@@ -5,6 +5,12 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.5.7 (Quick Patch)
+
+Changelog:
+
+- add link to change log
+
 ### Version 1.5.6 (Quick Patch)
 
 Changelog:
