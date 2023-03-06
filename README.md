@@ -5,6 +5,12 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.5.2 (Quick Patch)
+
+Changelog:
+
+- fix T2 Mini LCD size
+
 ### Version 1.5.1 (Quick Patch)
 
 Changelog:
