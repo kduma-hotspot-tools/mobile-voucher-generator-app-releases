@@ -5,6 +5,14 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.6.10 (Quick Patch)
+
+Changelog:
+
+- Ability lock configuration
+- Config reset button moved to About page
+- Needs to confirm before resetting configuration
+
 ### Version 1.6.9 (Quick Patch)
 
 Changelog:
