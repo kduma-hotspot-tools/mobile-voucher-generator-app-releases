@@ -5,6 +5,12 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.6.9 (Quick Patch)
+
+Changelog:
+
+- Ability to share configuration using QR or system sharing dialog
+
 ### Version 1.6.8 (Quick Patch)
 
 Changelog:
