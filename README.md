@@ -5,6 +5,24 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.6.8 (Quick Patch)
+
+Changelog:
+
+- Multipart QR Code scanning ability
+
+### Version 1.6.7 (Quick Patch)
+
+Changelog:
+
+- Continuous Integration fixes and tweaks
+
+### Version 1.6.6 (Quick Patch)
+
+Changelog:
+
+- Continuous Integration fixes and tweaks
+
 ### Version 1.6.5 (Quick Patch)
 
 Changelog:
