@@ -5,6 +5,12 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.6.1 (Quick Patch)
+
+Changelog:
+
+- Ability to disable BLE devices filtering
+
 ### Version 1.6.0
 
 Changelog:
