@@ -5,6 +5,12 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.6.3 (Quick Patch)
+
+Changelog:
+
+- Add link to Unifi Configuration docs
+
 ### Version 1.6.2 (Quick Patch)
 
 Changelog:
