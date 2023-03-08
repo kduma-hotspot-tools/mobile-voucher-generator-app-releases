@@ -5,6 +5,13 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.6.11 (Quick Patch)
+
+Changelog:
+
+- Fix botom spacing issue on About page
+- Correctly refresh interface when saving configuration
+
 ### Version 1.6.10 (Quick Patch)
 
 Changelog:
