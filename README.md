@@ -5,6 +5,21 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.7.0
+
+Changelog:
+
+- Updated quick-patch configuration
+- Fixed about page
+- Dark mode is now auto detected on iOS and Web
+- Now when changing theme or dark mode in configuration, it is reflected without need to restart application
+
+Downloads:
+
+- Sunmi BuiltIn [App Market](market://woyou.market/appDetail?packageName=sh.duma.hotspotvouchergenerator)
+- Android APK - [Download](downloads/sh.duma.hotspotvouchergenerator-1.7.0.apk)
+- iOS TestFlight - please contact me to get invited to beta release channel
+
 ### Version 1.6.14 (Quick Patch)
 
 Changelog:
@@ -100,7 +115,6 @@ Changelog:
 
 Downloads:
 
-- Sunmi BuiltIn [App Market](market://woyou.market/appDetail?packageName=sh.duma.hotspotvouchergenerator)
 - Android APK - [Download](downloads/sh.duma.hotspotvouchergenerator-1.6.0.apk)
 
 ### Version 1.5.7 (Quick Patch)
