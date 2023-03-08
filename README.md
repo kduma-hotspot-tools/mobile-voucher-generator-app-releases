@@ -5,6 +5,18 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.8.0
+
+Changelog:
+
+- Fixed reset configuration button on about page
+- Quick-patch system reworked
+
+Downloads:
+
+- Sunmi BuiltIn [App Market](market://woyou.market/appDetail?packageName=sh.duma.hotspotvouchergenerator)
+- Android APK - [Download](downloads/sh.duma.hotspotvouchergenerator-1.8.0.apk)
+
 ### Version 1.7.0
 
 Changelog:
@@ -16,7 +28,6 @@ Changelog:
 
 Downloads:
 
-- Sunmi BuiltIn [App Market](market://woyou.market/appDetail?packageName=sh.duma.hotspotvouchergenerator)
 - Android APK - [Download](downloads/sh.duma.hotspotvouchergenerator-1.7.0.apk)
 - iOS TestFlight - please contact me to get invited to beta release channel
 
