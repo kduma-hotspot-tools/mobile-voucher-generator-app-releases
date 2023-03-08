@@ -9,14 +9,12 @@
   },
   "updates": [
     {
-      "channels":[
-        "stable", "rc", "beta"
-      ],
-      "version":"1.8.0",
-      "url":"https://kduma-hotspot-tools.github.io/mobile-voucher-generator-app-releases/updates/1.8.x/1.8.0.zip",
-      "platform":["ios", "android"],
-      "date":"2023-03-09",
-      "changelog":[
+      "channels": ["stable", "rc", "beta"],
+      "version": "1.8.0",
+      "url": "https://kduma-hotspot-tools.github.io/mobile-voucher-generator-app-releases/updates/1.8.x/1.8.0.zip",
+      "platform": ["ios", "android"],
+      "date": "2023-03-09",
+      "changelog": [
         "Fixed reset configuration button on about page",
         "Quick-patch system reworked"
       ]
