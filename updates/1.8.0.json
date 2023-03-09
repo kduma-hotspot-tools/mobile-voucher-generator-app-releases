@@ -9,6 +9,28 @@
   },
   "updates": [
     {
+      "channels": ["beta", "rc", "1.8.4-rc1"],
+      "version": "1.8.4-rc1",
+      "url": "https://kduma-hotspot-tools.github.io/mobile-voucher-generator-app-releases/updates/1.8.x/1.8.4-rc1.zip",
+      "platform": ["ios", "android"],
+      "date": "2023-03-10",
+      "changelog": [
+        "Add tab bar icons on iOS",
+        "Reorganise buttons on setup page",
+        "Don't permit to override current config with demo"
+      ]
+    },
+    {
+      "channels": ["beta", "rc", "stable", "1.8.3"],
+      "version": "1.8.3",
+      "url": "https://kduma-hotspot-tools.github.io/mobile-voucher-generator-app-releases/updates/1.8.x/1.8.3.zip",
+      "platform": ["ios", "android"],
+      "date": "2023-03-10",
+      "changelog": [
+        "Quick Patch tweaks"
+      ]
+    },
+    {
       "channels": ["rc", "1.8.3-rc6"],
       "version": "1.8.3-rc6",
       "url": "https://kduma-hotspot-tools.github.io/mobile-voucher-generator-app-releases/updates/1.8.x/1.8.3-rc6.zip",

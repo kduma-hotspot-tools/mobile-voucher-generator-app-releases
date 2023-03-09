@@ -5,6 +5,20 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.8.4 (Quick Patch) - RC
+
+Changelog:
+
+- Add tab bar icons on iOS
+- Reorganise buttons on setup page
+- Don't permit to override current config with demo
+
+### Version 1.8.3 (Quick Patch)
+
+Changelog:
+
+- Quick Patch tweaks
+
 ### Version 1.8.2
 
 Changelog:
