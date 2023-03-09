@@ -9,9 +9,9 @@
   },
   "updates": [
     {
-      "channels": ["dev"],
-      "version": "1.8.0-dev",
-      "url": "https://kduma-hotspot-tools.github.io/mobile-voucher-generator-app-releases/updates/1.8.x/1.8.0.zip",
+      "channels": ["dev", "1.8.2"],
+      "version": "1.8.2-fb",
+      "url": "https://kduma-hotspot-tools.github.io/mobile-voucher-generator-app-releases/updates/1.8.x/1.8.2.zip",
       "platform": ["ios", "android"],
       "date": "2023-03-09",
       "changelog": [
@@ -19,7 +19,38 @@
       ]
     },
     {
-      "channels": ["stable", "rc", "beta"],
+      "channels": ["stable"],
+      "version": "1.8.2",
+      "url": "https://kduma-hotspot-tools.github.io/mobile-voucher-generator-app-releases/updates/1.8.x/1.8.2.zip",
+      "platform": ["ios", "android"],
+      "date": "2023-03-09",
+      "changelog": [
+        "Rebuild as a base version"
+      ]
+    },
+    {
+      "channels": ["stable", "1.8.1"],
+      "version": "1.8.1",
+      "url": "https://kduma-hotspot-tools.github.io/mobile-voucher-generator-app-releases/updates/1.8.x/1.8.1.zip",
+      "platform": ["ios", "android"],
+      "date": "2023-03-09",
+      "changelog": [
+        "Removed leftover alert"
+      ]
+    },
+    {
+      "channels": ["1.8.0"],
+      "version": "1.8.0-fb",
+      "url": "https://kduma-hotspot-tools.github.io/mobile-voucher-generator-app-releases/updates/1.8.x/1.8.0.zip",
+      "platform": ["ios", "android"],
+      "date": "2023-03-09",
+      "changelog": [
+        "Fixed reset configuration button on about page",
+        "Quick-patch system reworked"
+      ]
+    },
+    {
+      "channels": ["stable"],
       "version": "1.8.0",
       "url": "https://kduma-hotspot-tools.github.io/mobile-voucher-generator-app-releases/updates/1.8.x/1.8.0.zip",
       "platform": ["ios", "android"],
