@@ -9,6 +9,17 @@
   },
   "updates": [
     {
+      "channels": ["rc", "1.8.3-rc6"],
+      "version": "1.8.3-rc6",
+      "url": "https://kduma-hotspot-tools.github.io/mobile-voucher-generator-app-releases/updates/1.8.x/1.8.3-rc6.zip",
+      "platform": ["ios", "android"],
+      "date": "2023-03-09",
+      "changelog": [
+        "Remove unnecesary button in alertbox",
+        "Present correct version number"
+      ]
+    },
+    {
       "channels": ["rc", "1.8.3-rc5"],
       "version": "1.8.3-rc5",
       "url": "https://kduma-hotspot-tools.github.io/mobile-voucher-generator-app-releases/updates/1.8.x/1.8.3-rc5.zip",
