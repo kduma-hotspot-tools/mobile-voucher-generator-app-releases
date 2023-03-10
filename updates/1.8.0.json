@@ -9,7 +9,7 @@
   },
   "updates": [
     {
-      "channels": ["beta", "rc", "1.8.4-rc12"],
+      "channels": ["beta", "rc", "1.8.4-rc2"],
       "version": "1.8.4-rc2",
       "url": "https://kduma-hotspot-tools.github.io/mobile-voucher-generator-app-releases/updates/1.8.x/1.8.4-rc2.zip",
       "platform": ["ios", "android"],
