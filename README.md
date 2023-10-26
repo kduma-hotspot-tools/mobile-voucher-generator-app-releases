@@ -5,6 +5,18 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.10.0
+
+Changelog:
+
+- Fixes UniFi backend driver when used with non default site, hotspot manager user
+
+Downloads:
+
+- Sunmi BuiltIn [App Market](market://woyou.market/appDetail?packageName=sh.duma.hotspotvouchergenerator)
+- Android APK - [Download](downloads/sh.duma.hotspotvouchergenerator-1.10.0.apk)
+- iOS TestFlight - please contact me to get invited to beta release channel
+
 ### Version 1.9.0
 
 Changelog:
@@ -16,9 +28,7 @@ Changelog:
 
 Downloads:
 
-- Sunmi BuiltIn [App Market](market://woyou.market/appDetail?packageName=sh.duma.hotspotvouchergenerator)
 - Android APK - [Download](downloads/sh.duma.hotspotvouchergenerator-1.9.0.apk)
-- iOS TestFlight - please contact me to get invited to beta release channel
 
 ### Version 1.8.3 (Quick Patch)
 
