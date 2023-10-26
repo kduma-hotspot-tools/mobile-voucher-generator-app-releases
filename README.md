@@ -5,13 +5,20 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
-### Version 1.8.4 (Quick Patch) - RC
+### Version 1.9.0
 
 Changelog:
 
 - Add tab bar icons on iOS
 - Reorganise buttons on setup page
 - Don't permit to override current config with demo
+- Fixes UniFi backend driver when used with standalone UniFi Controller
+
+Downloads:
+
+- Sunmi BuiltIn [App Market](market://woyou.market/appDetail?packageName=sh.duma.hotspotvouchergenerator)
+- Android APK - [Download](downloads/sh.duma.hotspotvouchergenerator-1.9.0.apk)
+- iOS TestFlight - please contact me to get invited to beta release channel
 
 ### Version 1.8.3 (Quick Patch)
 
@@ -24,12 +31,6 @@ Changelog:
 Changelog:
 
 - Rebuild as a base version
-
-Downloads:
-
-- Sunmi BuiltIn [App Market](market://woyou.market/appDetail?packageName=sh.duma.hotspotvouchergenerator)
-- Android APK - [Download](downloads/sh.duma.hotspotvouchergenerator-1.8.2.apk)
-- iOS TestFlight - please contact me to get invited to beta release channel
 
 
 ### Version 1.8.1 (Quick Patch)

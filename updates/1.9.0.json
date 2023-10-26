@@ -1,0 +1,24 @@
+{
+  "channels": {
+    "stable": "Official Stable Releases",
+    "rc": "Release Candidates",
+    "beta": "Beta Releases",
+    "alpha": "Alpha Releases",
+    "dev": "Development Releases",
+    "nightly": "Nightly Releases"
+  },
+  "updates": [    {
+      "channels": ["stable", "1.9.0"],
+      "version": "1.9.0",
+      "url": "https://kduma-hotspot-tools.github.io/mobile-voucher-generator-app-releases/updates/1.9.x/1.9.0.zip",
+      "platform": ["ios", "android"],
+      "date": "2023-10-26",
+      "changelog": [
+        "Add tab bar icons on iOS",
+        "Reorganise buttons on setup page",
+        "Don't permit to override current config with demo",
+        "Fixes UniFi backend driver when used with standalone UniFi Controller"
+      ]
+    }
+  ]
+}
