@@ -279,4 +279,4 @@ Downloads:
 
 ## Extras
 
-- [Code for generating ESC/POS templates](https://github.com/kduma-hotspot-tools/mobile-voucher-generator-app-releases/tree/main/extras/esc-pos-generator) for use with HotSpot Voucher Generator printing modules
+- [Code for generating ESC/POS templates](https://github.com/kduma-hotspot-tools/mobile-voucher-generator-app-template-generator) for use with HotSpot Voucher Generator printing modules
