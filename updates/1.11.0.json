@@ -16,6 +16,15 @@
       "changelog": [
         "Update for more current version of Android OS"
       ]
-    }
+    },{
+    "channels": ["stable", "1.11.1"],
+    "version": "1.11.1",
+    "url": "https://kduma-hotspot-tools.github.io/mobile-voucher-generator-app-releases/updates/1.11.x/1.11.1.zip",
+    "platform": ["ios", "android"],
+    "date": "2024-10-10",
+    "changelog": [
+      "Add new supported print solutions"
+    ]
+  }
   ]
 }

@@ -5,6 +5,12 @@ Documentation is available at [hotspot-tools.duma.sh](https://hotspot-tools.duma
 
 ## Releases
 
+### Version 1.11.1 (Quick Patch)
+
+Changelog:
+
+- Add new supported print solutions
+
 ### Version 1.11.0
 
 Changelog:
