@@ -1,0 +1,21 @@
+{
+  "channels": {
+    "stable": "Official Stable Releases",
+    "rc": "Release Candidates",
+    "beta": "Beta Releases",
+    "alpha": "Alpha Releases",
+    "dev": "Development Releases",
+    "nightly": "Nightly Releases"
+  },
+  "updates": [    {
+      "channels": ["stable", "1.11.0"],
+      "version": "1.11.0",
+      "url": "https://kduma-hotspot-tools.github.io/mobile-voucher-generator-app-releases/updates/1.11.x/1.11.0.zip",
+      "platform": ["ios", "android"],
+      "date": "2024-10-10",
+      "changelog": [
+        "Update for more current version of Android OS"
+      ]
+    }
+  ]
+}
